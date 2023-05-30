@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94e6513d-3946-4854-98c7-586145faa771" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/java-test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/JunitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/java-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/차재현/Desktop/today",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -117,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685406976112</updated>
-      <workItem from="1685406977355" duration="4700000" />
+      <workItem from="1685406977355" duration="6514000" />
     </task>
     <servers />
   </component>

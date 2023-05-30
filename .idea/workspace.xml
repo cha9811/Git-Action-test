@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94e6513d-3946-4854-98c7-586145faa771" name="변경" comment="1433">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/webhook.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="94e6513d-3946-4854-98c7-586145faa771" name="변경" comment="1531" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685406976112</updated>
-      <workItem from="1685406977355" duration="13157000" />
+      <workItem from="1685406977355" duration="13479000" />
     </task>
     <task id="LOCAL-00001" summary="dasd">
       <created>1685416765509</created>
@@ -161,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685424839413</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1531">
+      <created>1685428304479</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685428304479</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +176,8 @@
     <MESSAGE value="1336" />
     <MESSAGE value="1422" />
     <MESSAGE value="1433" />
-    <option name="LAST_COMMIT_MESSAGE" value="1433" />
+    <MESSAGE value="1531" />
+    <option name="LAST_COMMIT_MESSAGE" value="1531" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

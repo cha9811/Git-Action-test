@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94e6513d-3946-4854-98c7-586145faa771" name="변경" comment="1336">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/main/SQLInjectionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/java-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/java-test.yml" afterDir="false" />
+    <list default="true" id="94e6513d-3946-4854-98c7-586145faa771" name="변경" comment="1422">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/SQLInjectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/SQLInjectionExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +50,10 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/차재현/Desktop/today",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "project.structure.last.edited": "문제",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -133,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685406976112</updated>
-      <workItem from="1685406977355" duration="10615000" />
+      <workItem from="1685406977355" duration="11297000" />
     </task>
     <task id="LOCAL-00001" summary="dasd">
       <created>1685416765509</created>
@@ -149,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685421402298</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1422">
+      <created>1685424164694</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685424164694</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +163,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dasd" />
     <MESSAGE value="1336" />
-    <option name="LAST_COMMIT_MESSAGE" value="1336" />
+    <MESSAGE value="1422" />
+    <option name="LAST_COMMIT_MESSAGE" value="1422" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -1,0 +1,17 @@
+on: push
+name: Slack Notification Demo
+jobs:
+  slackNotification:
+    name: Slack Notification
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        #코드 긁어오기
+      - name: Slack Notification
+        #명령어 명명
+        uses: rtCamp/action-slack-notify@v2
+        #슬랙 제공 커맨드
+        env:
+        #환경변수 설정
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          #

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94e6513d-3946-4854-98c7-586145faa771" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/java-test.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yml" beforeDir="false" />
+    <list default="true" id="94e6513d-3946-4854-98c7-586145faa771" name="변경" comment="dasd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +56,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.JunitTest.getMulticampus">
+  <component name="RunManager" selected="JUnit.JunitTest">
     <configuration name="JunitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-maven-junit-skeleton" />
       <extension name="coverage">
@@ -105,8 +103,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JunitTest.getMulticampus" />
         <item itemvalue="JUnit.JunitTest" />
+        <item itemvalue="JUnit.JunitTest.getMulticampus" />
       </list>
     </recent_temporary>
   </component>
@@ -118,11 +116,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685406976112</updated>
-      <workItem from="1685406977355" duration="6514000" />
+      <workItem from="1685406977355" duration="7656000" />
     </task>
+    <task id="LOCAL-00001" summary="dasd">
+      <created>1685416765509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685416765509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dasd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dasd" />
   </component>
 </project>

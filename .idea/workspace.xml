@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94e6513d-3946-4854-98c7-586145faa771" name="변경" comment="1048">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/webhook.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685406976112</updated>
       <workItem from="1685406977355" duration="14095000" />
-      <workItem from="1685491651726" duration="4369000" />
+      <workItem from="1685491651726" duration="4532000" />
     </task>
     <task id="LOCAL-00001" summary="dasd">
       <created>1685416765509</created>
@@ -208,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685497718034</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1048">
+      <created>1685508016852</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685508016852</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

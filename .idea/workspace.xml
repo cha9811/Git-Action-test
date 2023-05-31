@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94e6513d-3946-4854-98c7-586145faa771" name="변경" comment="1533">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/s3-upload.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="94e6513d-3946-4854-98c7-586145faa771" name="변경" comment="1047">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/webhook.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685406976112</updated>
       <workItem from="1685406977355" duration="14095000" />
-      <workItem from="1685491651726" duration="2498000" />
+      <workItem from="1685491651726" duration="2770000" />
     </task>
     <task id="LOCAL-00001" summary="dasd">
       <created>1685416765509</created>
@@ -189,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685428625343</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1044">
+      <created>1685497460608</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685497460608</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1047">
+      <created>1685497657727</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685497657727</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +214,9 @@
     <MESSAGE value="1433" />
     <MESSAGE value="1531" />
     <MESSAGE value="1533" />
-    <option name="LAST_COMMIT_MESSAGE" value="1533" />
+    <MESSAGE value="1044" />
+    <MESSAGE value="1047" />
+    <option name="LAST_COMMIT_MESSAGE" value="1047" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
